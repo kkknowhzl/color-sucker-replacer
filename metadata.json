@@ -1,0 +1,5 @@
+{
+  "name": "VisionMatrix - Image Analysis Tool",
+  "description": "A professional image analysis suite allowing users to identify colors at specific coordinates, perform pixel-accurate distance measurements, and leverage Gemini AI for contextual analysis of image regions.",
+  "requestFramePermissions": []
+}
